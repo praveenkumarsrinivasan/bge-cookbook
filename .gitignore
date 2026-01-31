@@ -8,6 +8,20 @@ __pycache__/
 .eggs/
 .dist/
 build/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+pip-wheel-metadata/
+
+# Environment files
+.env
+.env.*
+!.env.example
 
 # Virtual environments
 .venv/
@@ -15,6 +29,7 @@ venv/
 
 # MkDocs build output
 site/
+.mkdocs_cache/
 
 # OS files
 .DS_Store
