@@ -19,16 +19,16 @@ A hearty, cheese-forward lasagna built with ricotta, mozzarella, parmesan, and a
 
 Cheese layer:
 
-- 32 oz ricotta cheese
-- 1 lb fresh mozzarella
-- 16 oz low moisture mozzarella
+- 32 oz (900 g) ricotta cheese
+- 1 lb (450 g) fresh mozzarella
+- 16 oz (450 g) low moisture mozzarella
 - 2 cups grated parmesan
 - 2 eggs
 - 1/4 cup fresh basil
 
 Meat sauce:
 
-- 1.5 lb ground beef, browned
+- 1.5 lb (680 g) ground beef, browned
 - 2 Tbsp garlic, minced
 - 2 cups pasta sauce
 - 1 can stewed tomatoes

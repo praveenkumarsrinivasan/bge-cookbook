@@ -3,7 +3,7 @@
 ## Recipe Essentials
 
 - EGG setup: indirect smoke
-- EGG target temperature: 250-275F
+- EGG target temperature: 250-275 F (121-135 C)
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Spritz:
 ## Method
 
 1. Defrost ribs overnight in the fridge. Remove the thin membrane on the bone side.
-2. Set up the EGG for indirect cooking at 250-275F with two pieces of smoking wood.
+2. Set up the EGG for indirect cooking at 250-275 F (121-135 C) with two pieces of smoking wood.
 3. Apply a thin layer of olive oil or mustard. Coat generously with pork rib rub and let it sweat for 30 minutes.
 4. Place ribs bone side down and smoke uncovered for 2 hours, spritzing every hour. The ribs should be dark mahogany (2.5 hours max).
 5. On foil, place butter and brown sugar and smear with rib glaze. Place ribs meat side down and wrap tightly.

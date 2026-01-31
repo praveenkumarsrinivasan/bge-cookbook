@@ -19,7 +19,7 @@ Sweet, sticky wings glazed with hoisin, soy sauce, and honey.
 
 Wings:
 
-- 2 lb chicken wings
+- 2 lb (900 g) chicken wings
 
 Sauce:
 

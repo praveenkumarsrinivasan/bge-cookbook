@@ -10,7 +10,7 @@ A step-by-step process for lighting, stabilizing, and cleaning a Big Green Egg.
 2. Fill lump charcoal to the top of the inner firebox ceramic (to the bottom of the split between the firebox and fire ring).
 3. Light the charcoal using organic fire lighters or an electric blower. If using fire lighters, place three around the charcoal, light them, build a small teepee of charcoal, and leave the lid open for maximum oxygen. If using an electric blower, hold it about 1 inch away from the charcoal for about 4 minutes.
 4. With the charcoal lit and the lid open, insert the ConvEGGtor legs down to preheat it.
-5. As the temperature climbs to about 20F below target, close the top and bottom vents halfway. Wearing heat gloves, flip the ConvEGGtor so legs are up, add the cooking grid, and close the lid.
+5. As the temperature climbs to about 20 F (11 C) below target, close the top and bottom vents halfway. Wearing heat gloves, flip the ConvEGGtor so legs are up, add the cooking grid, and close the lid.
 6. Let the EGG settle. When it starts to rise above target, close the vents by another 50 percent (about 25 percent open). Let it stabilize again.
 7. Once stable, close the vents to about a finger-width (or slightly less).
 8. The EGG should hold temperature for the entire cook.

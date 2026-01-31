@@ -16,8 +16,8 @@ Slow-smoked, then hot-crisped wings finished in buffalo sauce.
 
 1. Separate wings into flappers and drummies. Discard tips.
 2. Place on a rack over a tray and refrigerate uncovered overnight to dry the skin (optional but improves crispness).
-3. Set up for indirect cooking at 225 F with smoking wood. Use a foil tray under the grill to catch fat.
+3. Set up for indirect cooking at 225 F (107 C) with smoking wood. Use a foil tray under the grill to catch fat.
 4. Lightly spray wings and coat all sides with the chicken rub.
-5. Smoke wings, turning every 10 minutes, until they reach about 155 F internal (30-40 minutes depending on size).
+5. Smoke wings, turning every 10 minutes, until they reach about 155 F (68 C) internal (30-40 minutes depending on size).
 6. Toss wings in buffalo sauce.
-7. Open vents and raise grill to 450 F. Return wings to the grill and cook until crisp and 175-185 F internal.
+7. Open vents and raise grill to 450 F (232 C). Return wings to the grill and cook until crisp and 175-185 F (79-85 C) internal.

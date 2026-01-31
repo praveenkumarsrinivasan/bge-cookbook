@@ -19,7 +19,7 @@ Smoky, spiced chicken thighs grilled or rotisserie cooked and served with classi
 
 Chicken:
 
-- 2.5 lb boneless, skinless chicken thighs
+- 2.5 lb (1.1 kg) boneless, skinless chicken thighs
 
 Marinade:
 

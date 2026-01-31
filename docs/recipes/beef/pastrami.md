@@ -19,7 +19,7 @@ Brisket brined with a custom pickling spice mix, then rubbed and smoked.
 
 Brisket:
 
-- 1 whole brisket (12-14 lb), trimmed
+- 1 whole brisket (12-14 lb / 5.4-6.4 kg), trimmed
 
 Pickling spice:
 
@@ -33,7 +33,7 @@ Pickling spice:
 Brine:
 
 - 2 gallons water
-- 4 lb ice
+- 4 lb (1.8 kg) ice
 - 1/2 cup pink curing salt
 - 1/2 cup kosher salt
 - 1/4 cup brown sugar

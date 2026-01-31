@@ -19,7 +19,7 @@ A creamy, cheesy dip with jalapeno heat and a big melt.
 
 Dip:
 
-- 32 oz cream cheese
+- 32 oz (900 g) cream cheese
 - 3-4 cups cheddar cheese
 - 1 cup mozzarella
 - 1 cup parmesan

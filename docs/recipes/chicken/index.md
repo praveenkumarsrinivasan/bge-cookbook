@@ -7,3 +7,6 @@
 - [Chicken Shawarma](chicken-shawarma.md)
 - [Chinese Sticky Wings](chinese-sticky-wings.md)
 - [Rotisserie Turkey and Stuffing](rotisserie-turkey-stuffing.md)
+- [Chicken Drumsticks](chicken-drumsticks.md)
+- [Chicken Wings](chicken-wings.md)
+- [Competition Chicken Thighs](competition-chicken-thighs.md)

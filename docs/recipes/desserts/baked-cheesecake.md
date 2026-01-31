@@ -8,7 +8,7 @@ Serves: 8-16
 - Cook time: 120 minutes
 - Total time: 26 hours (includes 24-hour chill)
 - EGG setup: indirect
-- EGG target temperature: 350F, then 325F
+- EGG target temperature: 350 F (177 C), then 325 F (163 C)
 
 ## Ingredients
 
@@ -28,10 +28,10 @@ Cheesecake filling:
 
 ## Method
 
-1. Set up the EGG for indirect cooking with the ConvEGGtor at 350F.
+1. Set up the EGG for indirect cooking with the ConvEGGtor at 350 F (177 C).
 2. Mix the crust ingredients until they hold together. Wrap foil around the bottom of a springform pan to prevent leaks.
 3. Press the crust into the pan, up about 1 inch on the sides, and bake 10-15 minutes until edges are lightly golden. Cool for 30 minutes.
-4. Lower the EGG temperature to 325F.
+4. Lower the EGG temperature to 325 F (163 C).
 5. Beat cream cheese on medium until smooth (about 5 minutes). Add sugar and mix until combined.
 6. Add eggs one at a time, mixing until the yellow disappears after each addition.
 7. Stir in sour cream and vanilla on low or with a spatula until just combined.

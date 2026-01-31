@@ -3,7 +3,7 @@
 ## Recipe Essentials
 
 - EGG setup: indirect smoke
-- EGG target temperature: 250-275F
+- EGG target temperature: 250-275 F (121-135 C)
 
 ## Ingredients
 
@@ -25,10 +25,10 @@ Spritz:
 
 ## Method
 
-1. Set up the EGG for indirect cooking at 250-275F with two pieces of smoking wood.
+1. Set up the EGG for indirect cooking at 250-275 F (121-135 C) with two pieces of smoking wood.
 2. Trim any hard fat on the shoulder. Apply a thin layer of olive oil or mustard and coat with pork rib rub.
-3. Smoke uncovered for 3-4 hours, spritzing every hour. Target about 160F internal.
+3. Smoke uncovered for 3-4 hours, spritzing every hour. Target about 160 F (71 C) internal.
 4. Prepare a foil tray with apple juice, beer, and butter at room temperature. Place the pork in the tray and cover tightly with foil.
-5. Return to the EGG until internal temperature reaches 205F. Probe for tenderness; you can take it to 210F.
+5. Return to the EGG until internal temperature reaches 205 F (96 C). Probe for tenderness; you can take it to 210 F (99 C).
 6. Let steam escape for 5 minutes, then cover and rest in a towel-wrapped cooler for at least 45 minutes (preferably 1.5 hours).
 7. Uncover, remove the bone, and pull the pork. Drizzle with rib glaze and season as needed.

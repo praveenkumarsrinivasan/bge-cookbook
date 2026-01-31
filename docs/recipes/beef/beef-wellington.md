@@ -23,7 +23,7 @@ Base:
 
 Tallow injection:
 
-- 2 lb ground beef fat
+- 2 lb (900 g) ground beef fat
 - 10 whole garlic cloves
 - 4 roasted chestnuts, ground
 - 8 dried truffles

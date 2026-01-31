@@ -39,12 +39,16 @@ Browse by category:
 - [Chicken Shawarma](recipes/chicken/chicken-shawarma.md)
 - [Chinese Sticky Wings](recipes/chicken/chinese-sticky-wings.md)
 - [Rotisserie Turkey and Stuffing](recipes/chicken/rotisserie-turkey-stuffing.md)
+- [Chicken Drumsticks](recipes/chicken/chicken-drumsticks.md)
+- [Chicken Wings](recipes/chicken/chicken-wings.md)
+- [Competition Chicken Thighs](recipes/chicken/competition-chicken-thighs.md)
 
 ### Lamb
 
 - [Four Saucemen NZ Lamb Rack](recipes/lamb/four-saucemen-nz-lamb-rack.md)
 - [Leg of Lamb for Big Green Egg](recipes/lamb/leg-of-lamb-for-big-green-egg.md)
 - [Weekend Lamb Ribs](recipes/lamb/weekend-lamb-ribs.md)
+- [Pulled Lamb Leg](recipes/lamb/pulled-lamb-leg.md)
 
 ### Pork
 
@@ -54,10 +58,12 @@ Browse by category:
 - [Pork Chicharron](recipes/pork/pork-chicharron.md)
 - [Pulled Pork 101](recipes/pork/pulled-pork-101.md)
 - [Ribs 101](recipes/pork/ribs-101.md)
+- [Pork Ribs](recipes/pork/pork-ribs.md)
 
 ### Seafood
 
 - [The Four Saucemen Jalapeno & Sweet Orange Rub Panko Crumbed Scallops](recipes/seafood/the-four-saucemen-jalapeno-sweet-orange-rub-panko-crumbed-scallops.md)
+- [Smoked Salmon](recipes/seafood/smoked-salmon.md)
 
 ### Sauces/Condiments
 

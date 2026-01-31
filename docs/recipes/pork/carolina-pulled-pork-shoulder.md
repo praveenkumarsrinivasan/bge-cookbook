@@ -50,12 +50,12 @@ Equipment:
 ## Method
 
 1. Make the rub: Combine all dry ingredients except the brown sugar and kosher salt. Sift once, then sift again while adding the brown sugar. Add the kosher salt at the end and mix thoroughly.
-2. Set up your pit or BBQ for indirect cooking at 250F.
+2. Set up your pit or BBQ for indirect cooking at 250 F (121 C).
 3. Trim only hard fat and remove any skin if needed.
 4. Rub mustard over the pork, then apply the rub generously.
 5. Mix the spritz ingredients in the spray bottle and shake well.
 6. Add wood chunks to the fire. When the smoke thins to a light blue haze, place the pork on the grill. Cook 6-7 hours until the bark is dark. Start spritzing after the first 3 hours, then spritz every 45-60 minutes.
-7. When the internal temperature reaches about 170F, wrap. Lay two sheets of foil in a cross, spritz the pork, then wrap tightly and seal.
-8. Return to the pit/BBQ and cook another 2-3 hours until the internal temperature reaches 199-203F.
+7. When the internal temperature reaches about 170 F (77 C), wrap. Lay two sheets of foil in a cross, spritz the pork, then wrap tightly and seal.
+8. Return to the pit/BBQ and cook another 2-3 hours until the internal temperature reaches 199-203 F (93-95 C).
 9. Rest wrapped in a cooler or warm place for 1-2 hours.
 10. Unwrap in a foil tray, pour in the juices, remove the bone and cartilage, then pull the meat. Toss with the juices and serve with Carolina mustard BBQ sauce, pickles, and buns.

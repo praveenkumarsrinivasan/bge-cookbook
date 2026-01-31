@@ -13,7 +13,7 @@ A layered apple pie baked in cast iron with spiced apples and buttery crust.
 - Total time: 1 hour 5 minutes
 - Serves: 8-10
 - EGG setup: indirect
-- EGG target temperature: 350 F
+- EGG target temperature: 350 F (177 C)
 
 ## Ingredients
 
@@ -32,10 +32,9 @@ Crust and filling:
 
 ## Method
 
-1. Preheat the EGG to 350 F.
+1. Preheat the EGG to 350 F (177 C).
 2. Peel, core, and slice the apples.
 3. Combine flour, sugars, and spices; toss with apples and lemon juice.
 4. Butter a cast iron pan and layer crust, apples, and butter.
 5. Repeat layers, finishing with crust on top.
 6. Bake for about 45 minutes until golden.
-

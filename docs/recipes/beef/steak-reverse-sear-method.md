@@ -3,7 +3,7 @@
 ## Recipe Essentials
 
 - EGG setup: indirect, then direct for sear
-- EGG target temperature: 225F indirect, 550F for sear
+- EGG target temperature: 225 F (107 C) indirect, 550 F (288 C) for sear
 
 ## Ingredients
 
@@ -29,12 +29,12 @@ Steak butter:
 ## Method
 
 1. Mix the steak butter ingredients. Roll in food wrap into logs and freeze what you do not need.
-2. Set up the Big Green Egg for indirect cooking at 225F with two pieces of smoking wood.
+2. Set up the Big Green Egg for indirect cooking at 225 F (107 C) with two pieces of smoking wood.
 3. Cook the beef from room temperature. Coat lightly with olive oil and apply a fine layer of beef rub 10 minutes before grilling.
-4. Once the EGG is stable at 225F, place the steak in the center of the grill. Turn every 10 minutes.
-5. For a 6 cm thick steak, expect about 45-50 minutes to reach medium-rare. Target internal temperatures: 115-120F rare, 125-130F medium rare, 135F medium.
+4. Once the EGG is stable at 225 F (107 C), place the steak in the center of the grill. Turn every 10 minutes.
+5. For a 6 cm thick steak, expect about 45-50 minutes to reach medium-rare. Target internal temperatures: 115-120 F (46-49 C) rare, 125-130 F (52-54 C) medium rare, 135 F (57 C) medium.
 6. Remove the steak and rest under a tented foil.
-7. Carefully remove the ConvEGGtor. Open the vents and heat the EGG to 550F. Preheat cast iron or grill grates if you have them.
+7. Carefully remove the ConvEGGtor. Open the vents and heat the EGG to 550 F (288 C). Preheat cast iron or grill grates if you have them.
 8. Sear the steaks for 1 minute per side, turning at 30 seconds for diamond marks.
 9. Top with steak butter while resting and season with flaky sea salt if needed.
 

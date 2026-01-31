@@ -12,7 +12,7 @@ Serves: 4
 - Cook time: 4 hours
 - Total time: 4 hours 20 minutes (plus resting)
 - EGG setup: indirect smoke
-- EGG target temperature: 250-275F
+- EGG target temperature: 250-275 F (121-135 C)
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ Serves: 4
 
 ## Method
 
-1. Set up the EGG for indirect cooking at 250-275F with a small chunk of fruit wood.
+1. Set up the EGG for indirect cooking at 250-275 F (121-135 C) with a small chunk of fruit wood.
 2. Pat ribs dry. Rub with oil or mustard, then coat with the BBQ rub. Rest 15-20 minutes.
 3. Smoke the ribs bone side down for 2 to 2.5 hours until the color is deep bronze. Spritz with water or apple juice if the surface looks dry.
 4. Lay out foil. Add butter, brown sugar, honey, and vinegar (plus tomato paste if using). Place ribs meat side down and wrap tightly.

@@ -19,11 +19,11 @@ Herb-heavy turkey prep with a cream-cheese base and simple aromatic stuffing.
 
 Turkey:
 
-- 1 turkey (12-15 lb)
+- 1 turkey (12-15 lb / 5.4-6.8 kg)
 
 Herb cream cheese:
 
-- 16 oz cream cheese, softened
+- 16 oz (450 g) cream cheese, softened
 - 1 bundle oregano, chopped
 - 1 bundle sage, chopped
 - 1 bundle thyme, chopped

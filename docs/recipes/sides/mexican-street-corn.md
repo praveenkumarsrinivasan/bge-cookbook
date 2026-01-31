@@ -28,7 +28,7 @@ Grilled elote finished with a creamy lime rub, cheese, and herbs.
 
 ## Method
 
-1. Preheat grill to 400-450 F.
+1. Preheat grill to 400-450 F (204-232 C).
 2. Grill corn, turning often, until lightly charred all over, about 10 minutes.
 3. In a bowl, whisk mayonnaise, cilantro, garlic, rub, lime zest, and lime juice. Taste and adjust salt if needed.
 4. Wrap corn in foil with butter and cook 6-8 minutes more until tender.

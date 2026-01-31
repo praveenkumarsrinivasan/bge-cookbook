@@ -6,3 +6,4 @@
 - [Pork Chicharron](pork-chicharron.md)
 - [Pulled Pork 101](pulled-pork-101.md)
 - [Ribs 101](ribs-101.md)
+- [Pork Ribs](pork-ribs.md)
