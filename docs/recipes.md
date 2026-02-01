@@ -17,70 +17,70 @@ Browse by category:
 
 ### Beef
 
+- [Beef Wellington](recipes/beef/beef-wellington.md)
+- [Brisket 101](recipes/beef/brisket-101.md)
+- [Easy Lasagna](recipes/beef/easy-lasagna.md)
+- [Pastrami](recipes/beef/pastrami.md)
 - [Reverse Seared Picanha](recipes/beef/reverse-seared-picanha.md)
 - [Smoked Herb Rib Roast](recipes/beef/smoked-herb-rib-roast.md)
+- [Steak 101](recipes/beef/steak-101.md)
 - [The Four Saucemen BBQ Beef Cheeks](recipes/beef/the-four-saucemen-bbq-beef-cheeks.md)
 - [The Four Saucemen BBQ Beef Short Ribs](recipes/beef/the-four-saucemen-bbq-beef-short-ribs.md)
 - [The Four Saucemen Brisket](recipes/beef/the-four-saucemen-brisket.md)
 - [The Four Saucemen Steak Reverse Sear Method](recipes/beef/steak-reverse-sear-method.md)
 - [Tri Tip with Blue Cheese Smoked Paprika Butter](recipes/beef/tri-tip.md)
-- [Beef Wellington](recipes/beef/beef-wellington.md)
-- [Brisket 101](recipes/beef/brisket-101.md)
-- [Easy Lasagna](recipes/beef/easy-lasagna.md)
-- [Pastrami](recipes/beef/pastrami.md)
-- [Steak 101](recipes/beef/steak-101.md)
 
 ### Chicken
 
-- [Korean Glazed Chicken Thighs](recipes/chicken/korean-glazed-chicken-thighs.md)
-- [The Four Saucemen Friday Night Chicken Wings](recipes/chicken/the-four-saucemen-friday-night-chicken-wings.md)
-- [Peruvian Wings with Aji Verde](recipes/chicken/peruvian-wings-aji-verde.md)
 - [Chicken 101](recipes/chicken/chicken-101.md)
-- [Chicken Shawarma](recipes/chicken/chicken-shawarma.md)
-- [Chinese Sticky Wings](recipes/chicken/chinese-sticky-wings.md)
-- [Rotisserie Turkey and Stuffing](recipes/chicken/rotisserie-turkey-stuffing.md)
 - [Chicken Drumsticks](recipes/chicken/chicken-drumsticks.md)
+- [Chicken Shawarma](recipes/chicken/chicken-shawarma.md)
 - [Chicken Wings](recipes/chicken/chicken-wings.md)
-- [Extra Crispy Wings](recipes/chicken/extra-crispy-wings.md)
+- [Chinese Sticky Wings](recipes/chicken/chinese-sticky-wings.md)
 - [Competition Chicken Thighs](recipes/chicken/competition-chicken-thighs.md)
+- [Extra Crispy Wings](recipes/chicken/extra-crispy-wings.md)
+- [Korean Glazed Chicken Thighs](recipes/chicken/korean-glazed-chicken-thighs.md)
+- [Peruvian Wings with Aji Verde](recipes/chicken/peruvian-wings-aji-verde.md)
+- [Rotisserie Turkey and Stuffing](recipes/chicken/rotisserie-turkey-stuffing.md)
+- [The Four Saucemen Friday Night Chicken Wings](recipes/chicken/the-four-saucemen-friday-night-chicken-wings.md)
 
 ### Lamb
 
 - [Four Saucemen NZ Lamb Rack](recipes/lamb/four-saucemen-nz-lamb-rack.md)
 - [Leg of Lamb for Big Green Egg](recipes/lamb/leg-of-lamb-for-big-green-egg.md)
-- [Weekend Lamb Ribs](recipes/lamb/weekend-lamb-ribs.md)
 - [Pulled Lamb Leg](recipes/lamb/pulled-lamb-leg.md)
+- [Weekend Lamb Ribs](recipes/lamb/weekend-lamb-ribs.md)
 
 ### Pork
 
 - [Carolina Pulled Pork Shoulder](recipes/pork/carolina-pulled-pork-shoulder.md)
-- [The Four Saucemen BBQ Pork Ribs](recipes/pork/the-four-saucemen-bbq-pork-ribs.md)
-- [The Four Saucemen BBQ Pulled Pork](recipes/pork/the-four-saucemen-bbq-pulled-pork.md)
 - [Pork Chicharron](recipes/pork/pork-chicharron.md)
+- [Pork Ribs](recipes/pork/pork-ribs.md)
 - [Pulled Pork 101](recipes/pork/pulled-pork-101.md)
 - [Ribs 101](recipes/pork/ribs-101.md)
-- [Pork Ribs](recipes/pork/pork-ribs.md)
+- [The Four Saucemen BBQ Pork Ribs](recipes/pork/the-four-saucemen-bbq-pork-ribs.md)
+- [The Four Saucemen BBQ Pulled Pork](recipes/pork/the-four-saucemen-bbq-pulled-pork.md)
 
 ### Seafood
 
-- [The Four Saucemen Jalapeno & Sweet Orange Rub Panko Crumbed Scallops](recipes/seafood/the-four-saucemen-jalapeno-sweet-orange-rub-panko-crumbed-scallops.md)
 - [Smoked Salmon](recipes/seafood/smoked-salmon.md)
+- [The Four Saucemen Jalapeno & Sweet Orange Rub Panko Crumbed Scallops](recipes/seafood/the-four-saucemen-jalapeno-sweet-orange-rub-panko-crumbed-scallops.md)
 
 ### Sauces/Condiments
 
 - [Easy Argentinian Chimichurri Sauce](recipes/sauces-condiments/easy-argentinian-chimichurri-sauce.md)
-- [Ssamjang Korean Dipping Sauce](recipes/sauces-condiments/ssamjang-korean-dipping-sauce.md)
-- [Vermouth Jus Gras](recipes/sauces-condiments/vermouth-jus-gras.md)
 - [Holy Voodoo Dry Rub](recipes/sauces-condiments/holy-voodoo-dry-rub.md)
+- [Ssamjang Korean Dipping Sauce](recipes/sauces-condiments/ssamjang-korean-dipping-sauce.md)
 - [Ultimate Texas SPG Dry Rub](recipes/sauces-condiments/ultimate-texas-spg-dry-rub.md)
+- [Vermouth Jus Gras](recipes/sauces-condiments/vermouth-jus-gras.md)
 
 ### Sides
 
+- [Jalapeno Popper Dip](recipes/sides/jalapeno-popper-dip.md)
+- [Kenji-Style Crispy Roast Potatoes](recipes/sides/kenji-crispy-roast-potatoes-bge.md)
 - [Mexican Street Corn](recipes/sides/mexican-street-corn.md)
-- [Kenji-Style Crispy Roast Potatoes (Big Green Egg)](recipes/sides/kenji-crispy-roast-potatoes-bge.md)
 - [Sprits](recipes/sides/sprits.md)
 - [The Perfect Blooming Onion](recipes/sides/the-perfect-blooming-onion.md)
-- [Jalapeno Popper Dip](recipes/sides/jalapeno-popper-dip.md)
 
 ### Vegetarian
 
@@ -94,7 +94,8 @@ No recipes yet.
 ### Techniques
 
 - [Big Green Egg Process](recipes/techniques/big-green-egg-process.md)
-- [Meat Roasting Time & Temperature Chart](recipes/techniques/meat-roasting-time-temperature-chart.md)
+- [Le Creuset Rice Pot – Cooking Times & Ratios](recipes/techniques/le-creuset-rice-pot-cooking-times.md)
 - [Meat Temperature Guide](recipes/techniques/meat-temperature-guide.md)
-- [Vegetable Roasting Time Chart](recipes/techniques/vegetable-roasting-time-chart.md)
-- [Vegetable Steaming Time Chart](recipes/techniques/vegetable-steaming-time-chart.md)
+- [🍖 Meat Roasting Time & Temperature Chart](recipes/techniques/meat-roasting-time-temperature-chart.md)
+- [🔥 Vegetable Roasting Time Chart](recipes/techniques/vegetable-roasting-time-chart.md)
+- [🥦 Vegetable Steaming Time Chart](recipes/techniques/vegetable-steaming-time-chart.md)
