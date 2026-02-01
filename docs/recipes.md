@@ -41,6 +41,7 @@ Browse by category:
 - [Rotisserie Turkey and Stuffing](recipes/chicken/rotisserie-turkey-stuffing.md)
 - [Chicken Drumsticks](recipes/chicken/chicken-drumsticks.md)
 - [Chicken Wings](recipes/chicken/chicken-wings.md)
+- [Extra Crispy Wings](recipes/chicken/extra-crispy-wings.md)
 - [Competition Chicken Thighs](recipes/chicken/competition-chicken-thighs.md)
 
 ### Lamb
@@ -76,6 +77,7 @@ Browse by category:
 ### Sides
 
 - [Mexican Street Corn](recipes/sides/mexican-street-corn.md)
+- [Kenji-Style Crispy Roast Potatoes (Big Green Egg)](recipes/sides/kenji-crispy-roast-potatoes-bge.md)
 - [Sprits](recipes/sides/sprits.md)
 - [The Perfect Blooming Onion](recipes/sides/the-perfect-blooming-onion.md)
 - [Jalapeno Popper Dip](recipes/sides/jalapeno-popper-dip.md)

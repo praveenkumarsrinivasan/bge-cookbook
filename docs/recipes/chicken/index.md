@@ -9,4 +9,5 @@
 - [Rotisserie Turkey and Stuffing](rotisserie-turkey-stuffing.md)
 - [Chicken Drumsticks](chicken-drumsticks.md)
 - [Chicken Wings](chicken-wings.md)
+- [Extra Crispy Wings](extra-crispy-wings.md)
 - [Competition Chicken Thighs](competition-chicken-thighs.md)
