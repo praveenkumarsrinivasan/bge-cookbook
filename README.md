@@ -1,14 +1,30 @@
 # EggHead Cookbook
 
-A collection of tried-and-tested recipes for the Big Green Egg and kamado-style cooking — from low-and-slow smokes to high-heat sears.
+A collection of tried-and-tested recipes for the Big Green Egg and kamado-style cooking -- from low-and-slow smokes to high-heat sears.
 
-Built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
+Built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/). Live at https://praveenkumarsrinivasan.github.io/egghead-cookbook/
 
 ## What's Inside
 
-- **50+ recipes** across beef, chicken, lamb, pork, seafood, sides, desserts, sauces & rubs
-- **Techniques** — temperature guides, roasting charts, Big Green Egg process
-- **History** — the story of kamado cooking from ancient clay pots to modern ceramics
+- **63+ recipes** across beef, chicken, lamb, pork, seafood, sides, desserts, sauces & rubs, vegetarian
+- **Techniques** -- temperature guides, roasting charts, steaming charts, Big Green Egg startup process
+- **History** -- the story of kamado cooking from ancient clay pots to modern ceramics (3,000+ years)
+- **Visual guides** -- Big Green Egg component illustrations and cooking setup diagrams
+
+## Recipe Categories
+
+| Category | Count |
+|----------|-------|
+| Beef | 13 |
+| Chicken | 12 |
+| Pork | 8 |
+| Lamb | 5 |
+| Seafood | 3 |
+| Sauces & Condiments | 6 |
+| Sides | 6 |
+| Desserts | 3 |
+| Techniques | 6 |
+| Vegetarian | TBD |
 
 ## Quick Start
 
@@ -35,8 +51,27 @@ mkdocs build
 
 ## Deploy
 
-To deploy to GitHub Pages:
+Automatically deploys to GitHub Pages via GitHub Actions on push to main/master.
+
+Manual deploy:
 
 ```bash
 mkdocs gh-deploy
+```
+
+## Project Structure
+
+```
+egghead-cookbook/
+├── docs/
+│   ├── index.md                 # Homepage
+│   ├── history.md               # Kamado cooking history
+│   ├── recipes.md               # Master recipe index
+│   ├── recipes/                 # 10 category folders
+│   └── assets/
+│       ├── images/              # Recipe and component images
+│       └── stylesheets/         # Custom CSS
+├── mkdocs.yml                   # Site configuration
+├── requirements.txt             # mkdocs-material==9.5.33
+└── .github/workflows/           # GitHub Actions CI/CD
 ```

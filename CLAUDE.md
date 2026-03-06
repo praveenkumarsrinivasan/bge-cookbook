@@ -11,6 +11,8 @@ EggHead Cookbook — a recipe site for Big Green Egg and kamado-style cooking, b
 - `docs/recipes.md` — All recipes index
 - `docs/recipes/<category>/` — Recipe categories: beef, chicken, lamb, pork, seafood, sauces-condiments, sides, vegetarian, desserts, techniques
 - `docs/assets/images/` — Images used across the site
+- `docs/assets/images/BigGreenEgg/` — Big Green Egg component images (unified vector style, `.jpg`)
+- `docs/assets/images/BigGreenEgg/Big Green Egg Setup.md` — Image generation plan, style guide, and prompts
 - `docs/stylesheets/extra.css` — Custom CSS (green theme, logo styling)
 - `mkdocs.yml` — Site config, navigation, theme, and extensions
 
@@ -56,3 +58,15 @@ python3 .agents/skills/nano-image-generator/scripts/generate_image.py "<prompt>"
 
 Aspect ratios: `1:1`, `3:2`, `16:9`, `9:16`, etc.
 Sizes: `1K`, `2K`, `4K`.
+
+## Big Green Egg Component Images
+
+12 individual component images + 3 setup breakup diagrams live in `docs/assets/images/BigGreenEgg/`.
+
+**Style**: Dark teal (`#2d4a3e`) outlines, blue-gray (`#8a9ea8`) shading, neutral light gray (`#c8cfd3`) background. Works on both light/dark themes.
+
+**Components**: `closed_egg.jpg`, `open_egg.jpg`, `lump_charcoal.jpg`, `conveggtor.jpg`, `half_baking_stone.jpg`, `full_baking_stone.jpg`, `ss_grill_grate.jpg`, `half_cast_iron_grill.jpg`, `full_cast_iron_grill.jpg`, `plancha.jpg`, `dutch_oven.jpg`, `skillet.jpg`
+
+**Setup diagrams**: `direct_setup_breakup.jpg`, `indirect_setup_breakup.jpg`, `pizza_setup_breakup.jpg`
+
+See `docs/assets/images/BigGreenEgg/Big Green Egg Setup.md` for full prompts and regeneration instructions.
